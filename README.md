@@ -1,6 +1,6 @@
 # Delhi Air Quality Index AQI Analysis
 
-## For Viewing Complete Report (Click Here)[https://github.com/PrateekSharma8368/Delhi-Air-Quality-Index-AQI-Analysis/blob/main/Final%20Report/Final_Report.pdf]
+## For Viewing Complete Report [Click Here](https://github.com/PrateekSharma8368/Delhi-Air-Quality-Index-AQI-Analysis/blob/main/Final%20Report/Final_Report.pdf)
 
 ## Objective
 The objective of this project is to analyze air quality data to assess 
